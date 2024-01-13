@@ -21,7 +21,7 @@
 
 ## 🐳在线接口
 
-[多源接口](https://github.com/yk0800/TVBox/blob/main/%E5%A4%9A%E6%BA%90%E9%9B%86%E5%90%88.json)
+[多源接口](https://mirror.ghproxy.com/https://github.com/yk0800/TVBox/blob/main/%E5%A4%9A%E6%BA%90%E9%9B%86%E5%90%88.json)
 
 [多线路接口](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json)
 
