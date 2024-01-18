@@ -16,8 +16,9 @@
 
 [多线路接口](https://raw.githubusercontent.com/yk0800/TVBox/main/TVBox%E5%A4%9A%E4%BB%93%E6%BA%90/%E6%95%B4%E5%90%88%E5%A4%9A%E7%BA%BF%E8%B7%AF.json)
 
-[直播源接口](https://raw.githubusercontent.com/yk0800/TVBox/main/TVBox%E5%A4%9A%E4%BB%93%E6%BA%90/%E7%A6%8F%E5%BB%BA%E7%A7%BB%E5%8A%A8.txt)
+[移动直播源接口](https://raw.githubusercontent.com/yk0800/TVBox/main/TVBox%E5%A4%9A%E4%BB%93%E6%BA%90/%E7%A6%8F%E5%BB%BA%E7%A7%BB%E5%8A%A8.txt)
 
+[电信直播源接口](https://raw.githubusercontent.com/yk0800/TVBox/main/TVBox%E5%A4%9A%E4%BB%93%E6%BA%90/%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1.txt)
 
 ## 🐊直播源推荐
 
